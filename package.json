@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
+    "@screens/notifications": "file:./screens/notifications/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/token": "file:./screens/token/",
