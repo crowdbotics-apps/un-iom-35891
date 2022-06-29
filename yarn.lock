@@ -1227,7 +1227,10 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/token@file:./screens/token/":
+"@screens/signup@file:./screens/signup/":
+  version "1.0.0"
+
+"@screens/token@file:./screens/token":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

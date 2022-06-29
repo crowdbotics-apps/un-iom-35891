@@ -20,6 +20,7 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/profile": "file:./screens/profile/",
+    "@screens/signup": "file:./screens/signup/",
     "@screens/token": "file:./screens/token/",
     "axios": "^0.21.1",
     "react": "17.0.1",
