@@ -998,6 +998,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
@@ -1005,7 +1008,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
