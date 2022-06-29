@@ -998,7 +998,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1225,6 +1225,9 @@
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
+  version "1.0.0"
+
+"@screens/token@file:./screens/token/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
